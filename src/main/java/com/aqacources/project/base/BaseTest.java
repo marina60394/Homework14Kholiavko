@@ -3,7 +3,6 @@ package com.aqacources.project.base;
 import com.aqacources.project.pages.HomePage;
 import com.aqacources.project.utils.YamlParser;
 import com.codeborne.selenide.Condition;
-import com.codeborne.selenide.Configuration;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.junit.Rule;
