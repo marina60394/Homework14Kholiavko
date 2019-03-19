@@ -59,7 +59,7 @@ public class CheckoutPage extends AbstractPage {
     public void waitIncreaseElementValue() {
         testClass.waitTillElementIsPresent(PRODUCT_QUANTITY);
         String currentQuantity =
-                testClass.getDriver().findElement(By.xpath(PRODUCT_QUANTITY)).getAttribute("value");
+                $(By.xpath(PRODUCT_QUANTITY)).getAttribute("value");
 
         int currentQuantityInt = Integer.parseInt(currentQuantity);
 
