@@ -1,0 +1,209 @@
+2019-44-18 23:44:06.611 [main] INFO   - Opened site
+2019-44-18 23:44:08.966 [main] INFO   - Clicked Sign In
+2019-00-19 00:00:57.152 [main] INFO   - Opened site
+2019-00-19 00:00:59.492 [main] INFO   - Clicked Sign In
+2019-01-19 00:01:40.834 [main] INFO   - Opened site
+2019-01-19 00:01:42.962 [main] INFO   - Clicked Sign In
+2019-08-19 00:08:35.463 [main] INFO   - Opened site
+2019-08-19 00:08:37.695 [main] INFO   - Clicked Sign In
+2019-38-19 00:38:41.440 [main] ERROR  - Element not found {NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@id='page']"}}
+Expected: exist
+2019-42-19 00:42:00.852 [main] ERROR  - Element not found {NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@id='page']"}}
+Expected: exist
+2019-50-19 00:50:15.040 [main] INFO   - Opened site
+2019-50-19 00:50:17.452 [main] INFO   - Clicked Sign In
+2019-50-19 00:50:20.575 [main] ERROR  - Customer name is incorrect:  expected:<null> but was:<Maryna Test>
+2019-52-19 00:52:37.288 [main] INFO   - Opened site
+2019-52-19 00:52:39.729 [main] INFO   - Clicked Sign In
+2019-00-19 01:00:14.213 [main] INFO   - Opened site
+2019-00-19 01:00:17.255 [main] INFO   - Clicked Sign In
+2019-02-19 01:02:08.267 [main] INFO   - Opened site
+2019-02-19 01:02:30.456 [main] INFO   - Opened site
+2019-03-19 01:03:28.578 [main] INFO   - Opened site
+2019-04-19 01:04:56.018 [main] INFO   - Opened site
+2019-06-19 01:06:30.546 [main] INFO   - Opened site
+2019-06-19 01:06:50.463 [main] INFO   - Opened site
+2019-07-19 01:07:30.200 [main] INFO   - Opened site
+2019-08-19 01:08:58.572 [main] INFO   - Opened site
+2019-09-19 01:09:21.141 [main] INFO   - Opened site
+2019-10-19 01:10:24.272 [main] INFO   - Opened site
+2019-10-19 01:10:49.204 [main] INFO   - Opened site
+2019-11-19 01:11:35.402 [main] INFO   - Opened site
+2019-11-19 01:11:58.068 [main] INFO   - Opened site
+2019-12-19 01:12:00.265 [main] INFO   - Clicked Sign In
+2019-26-19 06:26:04.899 [main] INFO   - Opened site
+2019-26-19 06:26:07.970 [main] INFO   - Clicked Sign In
+2019-26-19 06:26:07.978 [main] INFO   - Got Title for page after Log In - Login Page
+2019-26-19 06:26:10.543 [main] INFO   - Signed In on the site
+2019-26-19 06:26:10.635 [main] INFO   - Checked Customer Name
+2019-26-19 06:26:13.435 [main] INFO   - Logged Out
+2019-26-19 06:26:13.448 [main] INFO   - Got Title from page after log out  Login Page
+2019-26-19 06:26:13.449 [main] INFO   - Checked that page after clickSignIn Link and after log out is the same
+2019-26-19 06:26:14.441 [main] INFO   - Closed site
+2019-37-19 06:37:03.833 [main] INFO   - Opened site
+2019-37-19 06:37:06.362 [main] INFO   - Clicked Sgn In
+2019-37-19 06:37:08.889 [main] INFO   - Signed in on the site
+2019-37-19 06:37:11.630 [main] INFO   - Clicked menu Dresses
+2019-37-19 06:37:14.738 [main] INFO   - Clicked Summer Dresses
+2019-37-19 06:37:14.928 [main] INFO   - Compared summer dresses amounts from the page and from the message
+2019-37-19 06:37:15.154 [main] INFO   - CLicked to Filter color White
+2019-37-19 06:37:15.267 [main] INFO   - Compared summer white dresses from the page and from the message
+2019-51-19 06:51:31.583 [main] INFO   - Opened site
+2019-51-19 06:51:33.628 [main] INFO   - Clicked Sgn In
+2019-51-19 06:51:36.219 [main] INFO   - Signed In on the site
+2019-51-19 06:51:38.848 [main] INFO   - Clicked menu T-Shirts
+2019-51-19 06:51:40.951 [main] INFO   - Clicked to Product Container
+2019-51-19 06:51:40.995 [main] INFO   - Checked breadcrumb
+2019-51-19 06:51:41.112 [main] INFO   - Clicked to button Add to Cart
+2019-51-19 06:51:43.828 [main] INFO   - Clicked Proceed to Checkout
+2019-51-19 06:51:49.052 [main] ERROR  - Element should have exact text '2' {By.xpath: //td[@class='cart_quantity text-center']/input[@type='hidden']}
+Element: '<input name="quantity_1_1_0_144543_hidden" type="hidden" value="2" displayed:false></input>'
+2019-53-19 06:53:47.837 [main] INFO   - Opened site
+2019-53-19 06:53:50.138 [main] INFO   - Clicked Sgn In
+2019-53-19 06:53:52.427 [main] INFO   - Signed In on the site
+2019-53-19 06:53:55.254 [main] INFO   - Clicked menu T-Shirts
+2019-53-19 06:53:57.326 [main] INFO   - Clicked to Product Container
+2019-53-19 06:53:57.376 [main] INFO   - Checked breadcrumb
+2019-53-19 06:53:57.485 [main] INFO   - Clicked to button Add to Cart
+2019-54-19 06:54:00.542 [main] INFO   - Clicked Proceed to Checkout
+2019-54-19 06:54:05.783 [main] ERROR  - Element should have exact text '2' {By.xpath: //td[@class='cart_quantity text-center']/input[@type='hidden']}
+Element: '<input name="quantity_1_1_0_144543_hidden" type="hidden" value="2" displayed:false></input>'
+2019-55-19 06:55:31.440 [main] INFO   - Opened site
+2019-55-19 06:55:33.713 [main] INFO   - Clicked Sgn In
+2019-55-19 06:55:35.884 [main] INFO   - Signed In on the site
+2019-55-19 06:55:38.037 [main] INFO   - Clicked menu T-Shirts
+2019-55-19 06:55:40.082 [main] INFO   - Clicked to Product Container
+2019-55-19 06:55:40.129 [main] INFO   - Checked breadcrumb
+2019-55-19 06:55:40.239 [main] INFO   - Clicked to button Add to Cart
+2019-55-19 06:55:42.956 [main] INFO   - Clicked Proceed to Checkout
+2019-55-19 06:55:48.179 [main] ERROR  - Element should have exact text '2' {By.xpath: //td[@class='cart_quantity text-center']/input[@type='hidden']}
+Element: '<input name="quantity_1_1_0_144543_hidden" type="hidden" value="2" displayed:false></input>'
+2019-59-19 06:59:22.445 [main] INFO   - Opened site
+2019-59-19 06:59:24.741 [main] INFO   - Clicked Sgn In
+2019-59-19 06:59:26.859 [main] INFO   - Signed In on the site
+2019-59-19 06:59:29.018 [main] INFO   - Clicked menu T-Shirts
+2019-59-19 06:59:31.008 [main] INFO   - Clicked to Product Container
+2019-59-19 06:59:31.063 [main] INFO   - Checked breadcrumb
+2019-59-19 06:59:31.185 [main] INFO   - Clicked to button Add to Cart
+2019-59-19 06:59:33.907 [main] INFO   - Clicked Proceed to Checkout
+2019-59-19 06:59:39.130 [main] ERROR  - Element should have exact text '2' {By.xpath: //td[@class='cart_quantity text-center']/input[@type='hidden']}
+Element: '<input name="quantity_1_1_0_144543_hidden" type="hidden" value="2" displayed:false></input>'
+2019-01-19 07:01:46.263 [main] INFO   - Opened site
+2019-01-19 07:01:50.839 [main] INFO   - Clicked Sgn In
+2019-01-19 07:01:55.241 [main] INFO   - Signed In on the site
+2019-01-19 07:01:57.935 [main] INFO   - Clicked menu T-Shirts
+2019-02-19 07:02:00.757 [main] INFO   - Clicked to Product Container
+2019-02-19 07:02:00.811 [main] INFO   - Checked breadcrumb
+2019-02-19 07:02:00.922 [main] INFO   - Clicked to button Add to Cart
+2019-02-19 07:02:05.346 [main] INFO   - Clicked Proceed to Checkout
+2019-02-19 07:02:10.567 [main] ERROR  - Element should have exact text '2' {By.xpath: //td[@class='cart_quantity text-center']/input[@type='hidden']}
+Element: '<input name="quantity_1_1_0_144543_hidden" type="hidden" value="2" displayed:false></input>'
+2019-09-19 07:09:12.436 [main] INFO   - Opened site
+2019-09-19 07:09:15.106 [main] INFO   - Clicked Sgn In
+2019-09-19 07:09:17.625 [main] INFO   - Signed In on the site
+2019-09-19 07:09:20.061 [main] INFO   - Clicked menu T-Shirts
+2019-09-19 07:09:21.945 [main] INFO   - Clicked to Product Container
+2019-09-19 07:09:21.990 [main] INFO   - Checked breadcrumb
+2019-09-19 07:09:22.098 [main] INFO   - Clicked to button Add to Cart
+2019-09-19 07:09:24.826 [main] INFO   - Clicked Proceed to Checkout
+2019-09-19 07:09:25.894 [main] INFO   - Increased Quantity
+2019-09-19 07:09:26.031 [main] INFO   - Checked amount price
+2019-09-19 07:09:26.160 [main] INFO   - Deleted Product
+2019-09-19 07:09:26.646 [main] ERROR  - expected:<[Your shopping cart is empty.]> but was:<[]>
+2019-11-19 07:11:50.587 [main] INFO   - Opened site
+2019-11-19 07:11:52.968 [main] INFO   - Clicked Sgn In
+2019-11-19 07:11:55.867 [main] INFO   - Signed In on the site
+2019-11-19 07:11:57.974 [main] INFO   - Clicked menu T-Shirts
+2019-11-19 07:11:59.971 [main] INFO   - Clicked to Product Container
+2019-12-19 07:12:00.052 [main] INFO   - Checked breadcrumb
+2019-12-19 07:12:00.171 [main] INFO   - Clicked to button Add to Cart
+2019-12-19 07:12:02.886 [main] INFO   - Clicked Proceed to Checkout
+2019-12-19 07:12:04.000 [main] INFO   - Increased Quantity
+2019-12-19 07:12:04.145 [main] INFO   - Checked amount price
+2019-12-19 07:12:04.279 [main] INFO   - Deleted Product
+2019-12-19 07:12:04.747 [main] ERROR  - expected:<[Your shopping cart is empty.]> but was:<[]>
+2019-12-19 07:12:23.883 [main] INFO   - Opened site
+2019-12-19 07:12:25.903 [main] INFO   - Clicked Sgn In
+2019-12-19 07:12:28.235 [main] INFO   - Signed In on the site
+2019-12-19 07:12:30.729 [main] INFO   - Clicked menu T-Shirts
+2019-12-19 07:12:32.712 [main] INFO   - Clicked to Product Container
+2019-12-19 07:12:32.770 [main] INFO   - Checked breadcrumb
+2019-12-19 07:12:32.913 [main] INFO   - Clicked to button Add to Cart
+2019-12-19 07:12:35.642 [main] INFO   - Clicked Proceed to Checkout
+2019-12-19 07:12:36.683 [main] INFO   - Increased Quantity
+2019-12-19 07:12:36.826 [main] INFO   - Checked amount price
+2019-12-19 07:12:36.931 [main] INFO   - Deleted Product
+2019-12-19 07:12:37.384 [main] ERROR  - expected:<[Your shopping cart is empty.]> but was:<[]>
+2019-14-19 07:14:10.392 [main] INFO   - Opened site
+2019-14-19 07:14:12.380 [main] INFO   - Clicked Sgn In
+2019-14-19 07:14:14.629 [main] INFO   - Signed In on the site
+2019-14-19 07:14:16.721 [main] INFO   - Clicked menu T-Shirts
+2019-14-19 07:14:18.768 [main] INFO   - Clicked to Product Container
+2019-14-19 07:14:18.814 [main] INFO   - Checked breadcrumb
+2019-14-19 07:14:18.929 [main] INFO   - Clicked to button Add to Cart
+2019-14-19 07:14:21.569 [main] INFO   - Clicked Proceed to Checkout
+2019-14-19 07:14:22.665 [main] INFO   - Increased Quantity
+2019-14-19 07:14:22.808 [main] INFO   - Checked amount price
+2019-14-19 07:14:22.933 [main] INFO   - Deleted Product
+2019-14-19 07:14:23.399 [main] ERROR  - expected:<[Your shopping cart is empty.]> but was:<[]>
+2019-15-19 07:15:04.630 [main] INFO   - Opened site
+2019-15-19 07:15:06.555 [main] INFO   - Clicked Sgn In
+2019-15-19 07:15:08.847 [main] INFO   - Signed In on the site
+2019-15-19 07:15:11.146 [main] INFO   - Clicked menu T-Shirts
+2019-15-19 07:15:13.183 [main] INFO   - Clicked to Product Container
+2019-15-19 07:15:13.231 [main] INFO   - Checked breadcrumb
+2019-15-19 07:15:13.343 [main] INFO   - Clicked to button Add to Cart
+2019-15-19 07:15:16.171 [main] INFO   - Clicked Proceed to Checkout
+2019-15-19 07:15:17.250 [main] INFO   - Increased Quantity
+2019-15-19 07:15:17.391 [main] INFO   - Checked amount price
+2019-15-19 07:15:17.507 [main] INFO   - Deleted Product
+2019-15-19 07:15:17.978 [main] ERROR  - expected:<[ccc]> but was:<[]>
+2019-16-19 07:16:47.024 [main] INFO   - Opened site
+2019-16-19 07:16:49.352 [main] INFO   - Clicked Sgn In
+2019-16-19 07:16:51.906 [main] INFO   - Signed In on the site
+2019-16-19 07:16:54.472 [main] INFO   - Clicked menu T-Shirts
+2019-16-19 07:16:56.484 [main] INFO   - Clicked to Product Container
+2019-16-19 07:16:56.533 [main] INFO   - Checked breadcrumb
+2019-16-19 07:16:56.649 [main] INFO   - Clicked to button Add to Cart
+2019-16-19 07:16:59.355 [main] INFO   - Clicked Proceed to Checkout
+2019-17-19 07:17:00.460 [main] INFO   - Increased Quantity
+2019-17-19 07:17:00.599 [main] INFO   - Checked amount price
+2019-17-19 07:17:00.692 [main] INFO   - Deleted Product
+2019-17-19 07:17:01.194 [main] ERROR  - expected:<[Your shopping cart is empty.]> but was:<[]>
+2019-20-19 07:20:32.162 [main] INFO   - Opened site
+2019-20-19 07:20:35.038 [main] INFO   - Clicked Sgn In
+2019-20-19 07:20:38.933 [main] INFO   - Signed In on the site
+2019-20-19 07:20:41.113 [main] INFO   - Clicked menu T-Shirts
+2019-20-19 07:20:43.511 [main] INFO   - Clicked to Product Container
+2019-20-19 07:20:43.559 [main] INFO   - Checked breadcrumb
+2019-20-19 07:20:43.681 [main] INFO   - Clicked to button Add to Cart
+2019-20-19 07:20:46.419 [main] INFO   - Clicked Proceed to Checkout
+2019-20-19 07:20:48.355 [main] INFO   - Increased Quantity
+2019-20-19 07:20:48.496 [main] INFO   - Checked amount price
+2019-20-19 07:20:48.614 [main] INFO   - Deleted Product
+2019-20-19 07:20:53.726 [main] INFO   - Checked that we have message: Your shopping cart is empty
+2019-22-19 07:22:04.728 [main] INFO   - Opened site
+2019-22-19 07:22:23.275 [main] INFO   - Opened site
+2019-22-19 07:22:26.193 [main] INFO   - Clicked Sgn In
+2019-22-19 07:22:29.016 [main] INFO   - Signed In on the site
+2019-22-19 07:22:31.972 [main] INFO   - Clicked menu T-Shirts
+2019-22-19 07:22:34.509 [main] INFO   - Clicked to Product Container
+2019-22-19 07:22:34.574 [main] INFO   - Checked breadcrumb
+2019-22-19 07:22:34.700 [main] INFO   - Clicked to button Add to Cart
+2019-22-19 07:22:37.558 [main] INFO   - Clicked Proceed to Checkout
+2019-22-19 07:22:38.950 [main] INFO   - Increased Quantity
+2019-22-19 07:22:39.115 [main] INFO   - Checked amount price
+2019-22-19 07:22:39.241 [main] INFO   - Deleted Product
+2019-22-19 07:22:39.279 [main] INFO   - Checked that we have message: Your shopping cart is empty
+2019-24-19 07:24:02.886 [main] INFO   - Opened site
+2019-24-19 07:24:07.350 [main] INFO   - Clicked Sgn In
+2019-24-19 07:24:20.455 [main] INFO   - Signed In on the site
+2019-24-19 07:24:29.903 [main] INFO   - Clicked menu T-Shirts
+2019-24-19 07:24:39.766 [main] INFO   - Clicked to Product Container
+2019-24-19 07:24:39.832 [main] INFO   - Checked breadcrumb
+2019-24-19 07:24:39.986 [main] INFO   - Clicked to button Add to Cart
+2019-24-19 07:24:50.512 [main] INFO   - Clicked Proceed to Checkout
+2019-24-19 07:24:53.848 [main] INFO   - Increased Quantity
+2019-24-19 07:24:53.987 [main] INFO   - Checked amount price
+2019-24-19 07:24:54.121 [main] INFO   - Deleted Product
+2019-24-19 07:24:54.614 [main] ERROR  - expected:<[Your shopping cart is empty.]> but was:<[]>
