@@ -120,7 +120,7 @@ public class CheckoutPage extends AbstractPage {
      * Check Empty Cart
      */
     public void checkEmptyCart() {
-        testClass.waaitTillElementIsInvisible(cartSummary);
+        testClass.waitTillElementIsInvisible(cartSummary);
 
         Assert.assertEquals(MESSAGE_EMPTY_SHOPPING_CART, $(messageEmptyCart).text());
     }

@@ -115,7 +115,7 @@ public class BaseTest {
      *
      * @param element
      */
-    public void waaitTillElementIsInvisible(WebElement element) {
+    public void waitTillElementIsInvisible(WebElement element) {
         $(element).shouldBe(Condition.not(Condition.visible));
     }
 
