@@ -12,13 +12,12 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
-import org.openqa.selenium.support.ui.ExpectedConditions;
-import org.openqa.selenium.support.ui.WebDriverWait;
 
 import java.text.SimpleDateFormat;
 import java.util.Calendar;
 
-import static com.codeborne.selenide.Condition.*;
+import static com.codeborne.selenide.Condition.attribute;
+import static com.codeborne.selenide.Condition.exist;
 import static com.codeborne.selenide.Selectors.byXpath;
 import static com.codeborne.selenide.Selenide.*;
 import static com.codeborne.selenide.WebDriverRunner.setWebDriver;
@@ -49,7 +48,6 @@ public class BaseTest {
         ChromeOptions options = new ChromeOptions();
         options.addArguments("disable-infobars");
         driver = new ChromeDriver(options);
-//
 
         setWebDriver(driver);
         driver.manage().window().maximize();
@@ -111,6 +109,15 @@ public class BaseTest {
      */
     public void waitTillElementIsPresent(String locator) {
         $(byXpath(locator)).shouldBe(exist);
+    }
+
+    /**
+     * Wait till Element is Invisible
+     *
+     * @param element
+     */
+    public void waaitTillElementIsInvisible(WebElement element) {
+        $(element).shouldBe(Condition.not(Condition.visible));
     }
 
     /**

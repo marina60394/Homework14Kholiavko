@@ -71,6 +71,6 @@ public class AddToCartTest extends BaseTest {
         checkoutPage.checkEmptyCart();
         log("Checked that we have message: Your shopping cart is empty");
 
-//    closeSite();
+        closeSite();
     }
 }

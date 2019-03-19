@@ -207,3 +207,311 @@ Element: '<input name="quantity_1_1_0_144543_hidden" type="hidden" value="2" dis
 2019-24-19 07:24:53.987 [main] INFO   - Checked amount price
 2019-24-19 07:24:54.121 [main] INFO   - Deleted Product
 2019-24-19 07:24:54.614 [main] ERROR  - expected:<[Your shopping cart is empty.]> but was:<[]>
+2019-35-19 07:35:12.254 [main] INFO   - Opened site
+2019-35-19 07:35:14.244 [main] INFO   - Clicked Sgn In
+2019-35-19 07:35:16.486 [main] INFO   - Signed In on the site
+2019-35-19 07:35:18.619 [main] INFO   - Clicked menu T-Shirts
+2019-35-19 07:35:20.995 [main] INFO   - Clicked to Product Container
+2019-35-19 07:35:21.042 [main] INFO   - Checked breadcrumb
+2019-35-19 07:35:21.201 [main] INFO   - Clicked to button Add to Cart
+2019-35-19 07:35:23.893 [main] INFO   - Clicked Proceed to Checkout
+2019-35-19 07:35:25.208 [main] INFO   - Increased Quantity
+2019-35-19 07:35:25.347 [main] INFO   - Checked amount price
+2019-35-19 07:35:25.470 [main] INFO   - Deleted Product
+2019-35-19 07:35:25.951 [main] ERROR  - Customer name is incorrect:  expected:<[Your shopping cart is empty.]> but was:<[]>
+2019-38-19 07:38:25.116 [main] INFO   - Opened site
+2019-38-19 07:38:27.896 [main] INFO   - Clicked Sgn In
+2019-38-19 07:38:30.363 [main] INFO   - Signed In on the site
+2019-38-19 07:38:32.514 [main] INFO   - Clicked menu T-Shirts
+2019-38-19 07:38:35.529 [main] INFO   - Clicked to Product Container
+2019-38-19 07:38:35.577 [main] INFO   - Checked breadcrumb
+2019-38-19 07:38:35.696 [main] INFO   - Clicked to button Add to Cart
+2019-38-19 07:38:39.400 [main] INFO   - Clicked Proceed to Checkout
+2019-38-19 07:38:41.036 [main] INFO   - Increased Quantity
+2019-38-19 07:38:41.179 [main] INFO   - Checked amount price
+2019-38-19 07:38:41.301 [main] INFO   - Deleted Product
+2019-38-19 07:38:41.368 [main] INFO   - Checked that we have message: Your shopping cart is empty
+2019-46-19 07:46:50.578 [main] INFO   - Opened site
+2019-46-19 07:46:53.741 [main] INFO   - Clicked Sgn In
+2019-46-19 07:46:56.139 [main] INFO   - Signed In on the site
+2019-46-19 07:46:58.621 [main] INFO   - Clicked menu T-Shirts
+2019-47-19 07:47:01.235 [main] INFO   - Clicked to Product Container
+2019-47-19 07:47:01.282 [main] INFO   - Checked breadcrumb
+2019-47-19 07:47:01.394 [main] INFO   - Clicked to button Add to Cart
+2019-47-19 07:47:04.397 [main] INFO   - Clicked Proceed to Checkout
+2019-47-19 07:47:06.011 [main] INFO   - Increased Quantity
+2019-47-19 07:47:06.155 [main] INFO   - Checked amount price
+2019-47-19 07:47:06.269 [main] INFO   - Deleted Product
+2019-47-19 07:47:06.752 [main] ERROR  - expected:<[Your shopping cart is empty.]> but was:<[]>
+2019-49-19 07:49:36.345 [main] INFO   - Opened site
+2019-49-19 07:49:38.641 [main] INFO   - Clicked Sgn In
+2019-49-19 07:49:40.818 [main] INFO   - Signed In on the site
+2019-49-19 07:49:43.099 [main] INFO   - Clicked menu T-Shirts
+2019-49-19 07:49:45.080 [main] INFO   - Clicked to Product Container
+2019-49-19 07:49:45.129 [main] INFO   - Checked breadcrumb
+2019-49-19 07:49:45.248 [main] INFO   - Clicked to button Add to Cart
+2019-49-19 07:49:47.971 [main] INFO   - Clicked Proceed to Checkout
+2019-49-19 07:49:49.095 [main] INFO   - Increased Quantity
+2019-49-19 07:49:49.252 [main] INFO   - Checked amount price
+2019-49-19 07:49:49.410 [main] INFO   - Deleted Product
+2019-49-19 07:49:49.898 [main] ERROR  - expected:<[Your shopping cart is empty.]> but was:<[]>
+2019-51-19 07:51:04.646 [main] INFO   - Opened site
+2019-51-19 07:51:06.674 [main] INFO   - Clicked Sgn In
+2019-51-19 07:51:08.972 [main] INFO   - Signed In on the site
+2019-51-19 07:51:11.040 [main] INFO   - Clicked menu T-Shirts
+2019-51-19 07:51:13.063 [main] INFO   - Clicked to Product Container
+2019-51-19 07:51:13.107 [main] INFO   - Checked breadcrumb
+2019-51-19 07:51:13.226 [main] INFO   - Clicked to button Add to Cart
+2019-51-19 07:51:15.930 [main] INFO   - Clicked Proceed to Checkout
+2019-51-19 07:51:17.103 [main] INFO   - Increased Quantity
+2019-51-19 07:51:17.264 [main] INFO   - Checked amount price
+2019-51-19 07:51:17.401 [main] INFO   - Deleted Product
+2019-51-19 07:51:17.952 [main] ERROR  - expected:<[Your shopping cart is empty.]> but was:<[]>
+2019-56-19 07:56:46.530 [main] INFO   - Opened site
+2019-56-19 07:56:49.089 [main] INFO   - Clicked Sgn In
+2019-56-19 07:56:52.237 [main] INFO   - Signed In on the site
+2019-56-19 07:56:55.071 [main] INFO   - Clicked menu T-Shirts
+2019-56-19 07:56:57.829 [main] INFO   - Clicked to Product Container
+2019-56-19 07:56:57.888 [main] INFO   - Checked breadcrumb
+2019-56-19 07:56:58.010 [main] INFO   - Clicked to button Add to Cart
+2019-57-19 07:57:00.919 [main] INFO   - Clicked Proceed to Checkout
+2019-57-19 07:57:03.193 [main] INFO   - Increased Quantity
+2019-57-19 07:57:03.338 [main] INFO   - Checked amount price
+2019-57-19 07:57:03.460 [main] INFO   - Deleted Product
+2019-57-19 07:57:03.955 [main] ERROR  - Customer name is incorrect:  expected:<[Your shopping cart is empty.]> but was:<[]>
+2019-58-19 07:58:12.617 [main] INFO   - Opened site
+2019-58-19 07:58:14.718 [main] INFO   - Clicked Sgn In
+2019-58-19 07:58:17.211 [main] INFO   - Signed In on the site
+2019-58-19 07:58:19.727 [main] INFO   - Clicked menu T-Shirts
+2019-58-19 07:58:21.767 [main] INFO   - Clicked to Product Container
+2019-58-19 07:58:21.812 [main] INFO   - Checked breadcrumb
+2019-58-19 07:58:21.932 [main] INFO   - Clicked to button Add to Cart
+2019-58-19 07:58:24.574 [main] INFO   - Clicked Proceed to Checkout
+2019-58-19 07:58:25.646 [main] INFO   - Increased Quantity
+2019-58-19 07:58:25.789 [main] INFO   - Checked amount price
+2019-58-19 07:58:25.899 [main] INFO   - Deleted Product
+2019-58-19 07:58:26.387 [main] ERROR  - Customer name is incorrect:  expected:<[Your shopping cart is empty.]> but was:<[]>
+2019-59-19 07:59:51.507 [main] INFO   - Opened site
+2019-59-19 07:59:54.071 [main] INFO   - Clicked Sgn In
+2019-59-19 07:59:56.365 [main] INFO   - Signed In on the site
+2019-59-19 07:59:58.883 [main] INFO   - Clicked menu T-Shirts
+2019-00-19 08:00:01.293 [main] INFO   - Clicked to Product Container
+2019-00-19 08:00:01.335 [main] INFO   - Checked breadcrumb
+2019-00-19 08:00:01.454 [main] INFO   - Clicked to button Add to Cart
+2019-00-19 08:00:04.604 [main] INFO   - Clicked Proceed to Checkout
+2019-00-19 08:00:05.913 [main] INFO   - Increased Quantity
+2019-00-19 08:00:06.060 [main] INFO   - Checked amount price
+2019-00-19 08:00:06.180 [main] INFO   - Deleted Product
+2019-00-19 08:00:09.245 [main] INFO   - Checked that we have message: Your shopping cart is empty
+2019-02-19 08:02:11.858 [main] INFO   - Opened site
+2019-02-19 08:02:13.801 [main] INFO   - Clicked Sgn In
+2019-02-19 08:02:16.795 [main] INFO   - Signed In on the site
+2019-02-19 08:02:18.825 [main] INFO   - Clicked menu T-Shirts
+2019-02-19 08:02:20.920 [main] INFO   - Clicked to Product Container
+2019-02-19 08:02:20.965 [main] INFO   - Checked breadcrumb
+2019-02-19 08:02:21.092 [main] INFO   - Clicked to button Add to Cart
+2019-02-19 08:02:23.868 [main] INFO   - Clicked Proceed to Checkout
+2019-02-19 08:02:24.924 [main] INFO   - Increased Quantity
+2019-02-19 08:02:25.064 [main] INFO   - Checked amount price
+2019-02-19 08:02:25.177 [main] INFO   - Deleted Product
+2019-02-19 08:02:25.648 [main] ERROR  - Customer name is incorrect:  expected:<[Your shopping cart is empty.]> but was:<[]>
+2019-04-19 08:04:28.046 [main] INFO   - Opened site
+2019-04-19 08:04:30.019 [main] INFO   - Clicked Sgn In
+2019-04-19 08:04:32.647 [main] INFO   - Signed In on the site
+2019-04-19 08:04:35.673 [main] INFO   - Clicked menu T-Shirts
+2019-04-19 08:04:37.871 [main] INFO   - Clicked to Product Container
+2019-04-19 08:04:37.946 [main] INFO   - Checked breadcrumb
+2019-04-19 08:04:38.091 [main] INFO   - Clicked to button Add to Cart
+2019-04-19 08:04:41.567 [main] INFO   - Clicked Proceed to Checkout
+2019-04-19 08:04:42.920 [main] INFO   - Increased Quantity
+2019-04-19 08:04:43.068 [main] INFO   - Checked amount price
+2019-04-19 08:04:43.195 [main] INFO   - Deleted Product
+2019-04-19 08:04:43.674 [main] ERROR  - Customer name is incorrect:  expected:<[Your shopping cart is empty.]> but was:<[]>
+2019-06-19 08:06:57.819 [main] INFO   - Opened site
+2019-06-19 08:06:59.970 [main] INFO   - Clicked Sgn In
+2019-07-19 08:07:02.393 [main] INFO   - Signed In on the site
+2019-07-19 08:07:04.372 [main] INFO   - Clicked menu T-Shirts
+2019-07-19 08:07:06.360 [main] INFO   - Clicked to Product Container
+2019-07-19 08:07:06.407 [main] INFO   - Checked breadcrumb
+2019-07-19 08:07:06.515 [main] INFO   - Clicked to button Add to Cart
+2019-07-19 08:07:09.538 [main] INFO   - Clicked Proceed to Checkout
+2019-07-19 08:07:10.606 [main] INFO   - Increased Quantity
+2019-07-19 08:07:10.742 [main] INFO   - Checked amount price
+2019-07-19 08:07:10.873 [main] INFO   - Deleted Product
+2019-07-19 08:07:11.359 [main] ERROR  - Customer name is incorrect:  expected:<[Your shopping cart is empty.]> but was:<[]>
+2019-10-19 08:10:03.892 [main] INFO   - Opened site
+2019-10-19 08:10:06.004 [main] INFO   - Clicked Sgn In
+2019-10-19 08:10:08.789 [main] INFO   - Signed In on the site
+2019-10-19 08:10:11.076 [main] INFO   - Clicked menu T-Shirts
+2019-10-19 08:10:13.124 [main] INFO   - Clicked to Product Container
+2019-10-19 08:10:13.185 [main] INFO   - Checked breadcrumb
+2019-10-19 08:10:13.307 [main] INFO   - Clicked to button Add to Cart
+2019-10-19 08:10:16.127 [main] INFO   - Clicked Proceed to Checkout
+2019-10-19 08:10:17.223 [main] INFO   - Increased Quantity
+2019-10-19 08:10:17.369 [main] INFO   - Checked amount price
+2019-10-19 08:10:17.473 [main] INFO   - Deleted Product
+2019-10-19 08:10:17.934 [main] ERROR  - Customer name is incorrect:  expected:<[Your shopping cart is empty.]> but was:<[]>
+2019-11-19 08:11:30.496 [main] INFO   - Opened site
+2019-11-19 08:11:32.607 [main] INFO   - Clicked Sgn In
+2019-11-19 08:11:34.799 [main] INFO   - Signed In on the site
+2019-11-19 08:11:38.436 [main] INFO   - Clicked menu T-Shirts
+2019-11-19 08:11:41.188 [main] INFO   - Clicked to Product Container
+2019-11-19 08:11:41.234 [main] INFO   - Checked breadcrumb
+2019-11-19 08:11:41.343 [main] INFO   - Clicked to button Add to Cart
+2019-11-19 08:11:44.859 [main] INFO   - Clicked Proceed to Checkout
+2019-11-19 08:11:46.208 [main] INFO   - Increased Quantity
+2019-11-19 08:11:46.347 [main] INFO   - Checked amount price
+2019-11-19 08:11:46.460 [main] INFO   - Deleted Product
+2019-11-19 08:11:46.929 [main] ERROR  - expected:<[Your shopping cart is empty.]> but was:<[]>
+2019-13-19 08:13:23.193 [main] INFO   - Opened site
+2019-13-19 08:13:25.149 [main] INFO   - Clicked Sgn In
+2019-13-19 08:13:27.861 [main] INFO   - Signed In on the site
+2019-13-19 08:13:29.830 [main] INFO   - Clicked menu T-Shirts
+2019-13-19 08:13:31.793 [main] INFO   - Clicked to Product Container
+2019-13-19 08:13:31.845 [main] INFO   - Checked breadcrumb
+2019-13-19 08:13:31.974 [main] INFO   - Clicked to button Add to Cart
+2019-13-19 08:13:34.782 [main] INFO   - Clicked Proceed to Checkout
+2019-13-19 08:13:35.835 [main] INFO   - Increased Quantity
+2019-13-19 08:13:35.974 [main] INFO   - Checked amount price
+2019-13-19 08:13:36.091 [main] INFO   - Deleted Product
+2019-13-19 08:13:36.526 [main] ERROR  - expected:<[Your shopping cart is empty.]> but was:<[dddd]>
+2019-14-19 08:14:48.074 [main] INFO   - Opened site
+2019-14-19 08:14:50.138 [main] INFO   - Clicked Sgn In
+2019-14-19 08:14:52.610 [main] INFO   - Signed In on the site
+2019-14-19 08:14:54.649 [main] INFO   - Clicked menu T-Shirts
+2019-14-19 08:14:56.564 [main] INFO   - Clicked to Product Container
+2019-14-19 08:14:56.610 [main] INFO   - Checked breadcrumb
+2019-14-19 08:14:56.724 [main] INFO   - Clicked to button Add to Cart
+2019-14-19 08:14:59.586 [main] INFO   - Clicked Proceed to Checkout
+2019-15-19 08:15:00.663 [main] INFO   - Increased Quantity
+2019-15-19 08:15:00.801 [main] INFO   - Checked amount price
+2019-15-19 08:15:00.903 [main] INFO   - Deleted Product
+2019-15-19 08:15:01.391 [main] ERROR  - expected:<[Your shopping cart is empty.]> but was:<[]>
+2019-20-19 08:20:31.705 [main] INFO   - Opened site
+2019-20-19 08:20:33.834 [main] INFO   - Clicked Sgn In
+2019-20-19 08:20:36.147 [main] INFO   - Signed In on the site
+2019-20-19 08:20:38.916 [main] INFO   - Clicked menu T-Shirts
+2019-20-19 08:20:41.923 [main] INFO   - Clicked to Product Container
+2019-20-19 08:20:41.993 [main] INFO   - Checked breadcrumb
+2019-20-19 08:20:42.121 [main] INFO   - Clicked to button Add to Cart
+2019-20-19 08:20:46.994 [main] INFO   - Clicked Proceed to Checkout
+2019-20-19 08:20:48.048 [main] INFO   - Increased Quantity
+2019-20-19 08:20:48.185 [main] INFO   - Checked amount price
+2019-20-19 08:20:48.288 [main] INFO   - Deleted Product
+2019-20-19 08:20:48.745 [main] ERROR  - expected:<[Your shopping cart is empty.]> but was:<[]>
+2019-25-19 08:25:34.927 [main] INFO   - Opened site
+2019-25-19 08:25:37.235 [main] INFO   - Clicked Sgn In
+2019-25-19 08:25:39.535 [main] INFO   - Signed In on the site
+2019-25-19 08:25:41.876 [main] INFO   - Clicked menu T-Shirts
+2019-25-19 08:25:43.889 [main] INFO   - Clicked to Product Container
+2019-25-19 08:25:43.968 [main] INFO   - Checked breadcrumb
+2019-25-19 08:25:44.102 [main] INFO   - Clicked to button Add to Cart
+2019-25-19 08:25:46.769 [main] INFO   - Clicked Proceed to Checkout
+2019-25-19 08:25:47.857 [main] INFO   - Increased Quantity
+2019-25-19 08:25:48.000 [main] INFO   - Checked amount price
+2019-25-19 08:25:48.136 [main] INFO   - Deleted Product
+2019-25-19 08:25:48.605 [main] ERROR  - invalid selector: An invalid or illegal selector was specified
+  (Session info: chrome=72.0.3626.121)
+  (Driver info: chromedriver=2.46.628402 (536cd7adbad73a3783fdc2cab92ab2ba7ec361e1),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-OFJ2VPP', ip: '10.0.75.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.46.628402 (536cd7adbad73a..., userDataDir: C:\Users\Marina\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:8088}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 72.0.3626.121, webStorageEnabled: true}
+Session ID: 99566927c63151da8c0bce4a8521b008
+*** Element info: {Using=css selector, value=//p[@class='alert alert-warning']}
+2019-28-19 08:28:07.648 [main] INFO   - Opened site
+2019-28-19 08:28:10.141 [main] INFO   - Clicked Sgn In
+2019-28-19 08:28:13.277 [main] INFO   - Signed In on the site
+2019-28-19 08:28:15.857 [main] INFO   - Clicked menu T-Shirts
+2019-28-19 08:28:18.011 [main] INFO   - Clicked to Product Container
+2019-28-19 08:28:18.059 [main] INFO   - Checked breadcrumb
+2019-28-19 08:28:18.169 [main] INFO   - Clicked to button Add to Cart
+2019-28-19 08:28:21.117 [main] INFO   - Clicked Proceed to Checkout
+2019-28-19 08:28:22.149 [main] INFO   - Increased Quantity
+2019-28-19 08:28:22.288 [main] INFO   - Checked amount price
+2019-28-19 08:28:22.396 [main] INFO   - Deleted Product
+2019-28-19 08:28:22.809 [main] ERROR  - invalid selector: An invalid or illegal selector was specified
+  (Session info: chrome=72.0.3626.121)
+  (Driver info: chromedriver=2.46.628402 (536cd7adbad73a3783fdc2cab92ab2ba7ec361e1),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-OFJ2VPP', ip: '10.0.75.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.46.628402 (536cd7adbad73a..., userDataDir: C:\Users\Marina\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:8285}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 72.0.3626.121, webStorageEnabled: true}
+Session ID: 02493c29725e5120e3d8ec8ac8501589
+*** Element info: {Using=css selector, value=//p[@class='alert alert-warning']}
+2019-29-19 08:29:11.062 [main] INFO   - Opened site
+2019-29-19 08:29:13.196 [main] INFO   - Clicked Sgn In
+2019-29-19 08:29:15.511 [main] INFO   - Signed In on the site
+2019-29-19 08:29:17.789 [main] INFO   - Clicked menu T-Shirts
+2019-29-19 08:29:19.839 [main] INFO   - Clicked to Product Container
+2019-29-19 08:29:19.884 [main] INFO   - Checked breadcrumb
+2019-29-19 08:29:20.002 [main] INFO   - Clicked to button Add to Cart
+2019-29-19 08:29:22.753 [main] INFO   - Clicked Proceed to Checkout
+2019-29-19 08:29:23.842 [main] INFO   - Increased Quantity
+2019-29-19 08:29:23.982 [main] INFO   - Checked amount price
+2019-29-19 08:29:24.090 [main] INFO   - Deleted Product
+2019-29-19 08:29:24.563 [main] ERROR  - expected:<[Your shopping cart is empty.]> but was:<[]>
+2019-32-19 08:32:55.076 [main] INFO   - Opened site
+2019-32-19 08:32:57.447 [main] INFO   - Clicked Sgn In
+2019-32-19 08:32:59.720 [main] INFO   - Signed In on the site
+2019-33-19 08:33:01.931 [main] INFO   - Clicked menu T-Shirts
+2019-33-19 08:33:03.853 [main] INFO   - Clicked to Product Container
+2019-33-19 08:33:03.919 [main] INFO   - Checked breadcrumb
+2019-33-19 08:33:04.070 [main] INFO   - Clicked to button Add to Cart
+2019-33-19 08:33:07.550 [main] INFO   - Clicked Proceed to Checkout
+2019-33-19 08:33:08.610 [main] INFO   - Increased Quantity
+2019-33-19 08:33:08.747 [main] INFO   - Checked amount price
+2019-33-19 08:33:08.858 [main] INFO   - Deleted Product
+2019-33-19 08:33:09.324 [main] ERROR  - expected:<[Your shopping cart is empty.]> but was:<[]>
+2019-34-19 08:34:01.490 [main] INFO   - Opened site
+2019-34-19 08:34:03.649 [main] INFO   - Clicked Sgn In
+2019-34-19 08:34:05.959 [main] INFO   - Signed In on the site
+2019-34-19 08:34:08.860 [main] INFO   - Clicked menu T-Shirts
+2019-34-19 08:34:11.253 [main] INFO   - Clicked to Product Container
+2019-34-19 08:34:11.308 [main] INFO   - Checked breadcrumb
+2019-34-19 08:34:11.422 [main] INFO   - Clicked to button Add to Cart
+2019-34-19 08:34:14.902 [main] INFO   - Clicked Proceed to Checkout
+2019-34-19 08:34:15.971 [main] INFO   - Increased Quantity
+2019-34-19 08:34:16.112 [main] INFO   - Checked amount price
+2019-34-19 08:34:16.237 [main] INFO   - Deleted Product
+2019-34-19 08:34:16.711 [main] ERROR  - expected:<[Your shopping cart is empty.]> but was:<[]>
+2019-41-19 08:41:38.881 [main] INFO   - Opened site
+2019-41-19 08:41:41.364 [main] INFO   - Clicked Sgn In
+2019-41-19 08:41:44.158 [main] INFO   - Signed In on the site
+2019-41-19 08:41:46.746 [main] INFO   - Clicked menu T-Shirts
+2019-41-19 08:41:48.885 [main] INFO   - Clicked to Product Container
+2019-41-19 08:41:48.933 [main] INFO   - Checked breadcrumb
+2019-41-19 08:41:49.063 [main] INFO   - Clicked to button Add to Cart
+2019-41-19 08:41:52.019 [main] INFO   - Clicked Proceed to Checkout
+2019-41-19 08:41:53.914 [main] INFO   - Increased Quantity
+2019-41-19 08:41:54.065 [main] INFO   - Checked amount price
+2019-41-19 08:41:54.168 [main] INFO   - Deleted Product
+2019-41-19 08:41:55.996 [main] INFO   - Checked that we have message: Your shopping cart is empty
+2019-43-19 08:43:28.203 [main] INFO   - Opened site
+2019-43-19 08:43:30.231 [main] INFO   - Clicked Sgn In
+2019-43-19 08:43:32.808 [main] INFO   - Signed In on the site
+2019-43-19 08:43:34.959 [main] INFO   - Clicked menu T-Shirts
+2019-43-19 08:43:36.977 [main] INFO   - Clicked to Product Container
+2019-43-19 08:43:37.032 [main] INFO   - Checked breadcrumb
+2019-43-19 08:43:37.159 [main] INFO   - Clicked to button Add to Cart
+2019-43-19 08:43:40.124 [main] INFO   - Clicked Proceed to Checkout
+2019-43-19 08:43:41.260 [main] INFO   - Increased Quantity
+2019-43-19 08:43:41.402 [main] INFO   - Checked amount price
+2019-43-19 08:43:41.505 [main] INFO   - Deleted Product
+2019-43-19 08:43:43.422 [main] INFO   - Checked that we have message: Your shopping cart is empty
+2019-47-19 08:47:11.817 [main] INFO   - Opened site
+2019-47-19 08:47:14.736 [main] INFO   - Clicked Sgn In
+2019-47-19 08:47:17.439 [main] INFO   - Signed In on the site
+2019-47-19 08:47:19.707 [main] INFO   - Clicked menu T-Shirts
+2019-47-19 08:47:21.598 [main] INFO   - Clicked to Product Container
+2019-47-19 08:47:21.672 [main] INFO   - Checked breadcrumb
+2019-47-19 08:47:21.788 [main] INFO   - Clicked to button Add to Cart
+2019-47-19 08:47:24.721 [main] INFO   - Clicked Proceed to Checkout
+2019-47-19 08:47:25.826 [main] INFO   - Increased Quantity
+2019-47-19 08:47:25.970 [main] INFO   - Checked amount price
+2019-47-19 08:47:26.089 [main] INFO   - Deleted Product
+2019-47-19 08:47:28.485 [main] INFO   - Checked that we have message: Your shopping cart is empty

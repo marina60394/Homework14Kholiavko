@@ -8,6 +8,7 @@ import org.openqa.selenium.support.FindBy;
 
 import static com.codeborne.selenide.Selenide.$;
 
+
 /**
  * Created by Marina on 27.02.2019.
  */
@@ -38,6 +39,10 @@ public class CheckoutPage extends AbstractPage {
 
     @FindBy(xpath = "//p[@class='alert alert-warning']")
     private WebElement messageEmptyCart;
+
+
+    @FindBy(xpath = "//table[@id='cart_summary']")
+    private WebElement cartSummary;
 
     /**
      * Constructor
@@ -115,9 +120,8 @@ public class CheckoutPage extends AbstractPage {
      * Check Empty Cart
      */
     public void checkEmptyCart() {
-        testClass.waitTillElementIsVisible(messageEmptyCart);
+        testClass.waaitTillElementIsInvisible(cartSummary);
 
-        // check message for empty cart
         Assert.assertEquals(MESSAGE_EMPTY_SHOPPING_CART, $(messageEmptyCart).text());
     }
 }
