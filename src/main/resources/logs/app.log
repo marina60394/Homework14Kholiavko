@@ -539,3 +539,27 @@ Session ID: 02493c29725e5120e3d8ec8ac8501589
 2019-51-19 08:51:21.374 [main] INFO   - Checked amount price
 2019-51-19 08:51:21.557 [main] INFO   - Deleted Product
 2019-51-19 08:51:23.635 [main] INFO   - Checked that we have message: Your shopping cart is empty
+2019-54-19 08:54:35.702 [main] INFO   - Opened site
+2019-54-19 08:54:37.942 [main] INFO   - Clicked Sgn In
+2019-54-19 08:54:40.155 [main] INFO   - Signed In on the site
+2019-54-19 08:54:42.332 [main] INFO   - Clicked menu T-Shirts
+2019-54-19 08:54:44.380 [main] INFO   - Clicked to Product Container
+2019-54-19 08:54:44.442 [main] INFO   - Checked breadcrumb
+2019-54-19 08:54:44.559 [main] INFO   - Clicked to button Add to Cart
+2019-54-19 08:54:47.313 [main] INFO   - Clicked Proceed to Checkout
+2019-54-19 08:54:48.387 [main] INFO   - Increased Quantity
+2019-54-19 08:54:48.529 [main] INFO   - Checked amount price
+2019-54-19 08:54:48.645 [main] INFO   - Deleted Product
+2019-54-19 08:54:50.705 [main] INFO   - Checked that we have message: Your shopping cart is empty
+2019-00-19 09:00:12.848 [main] INFO   - Opened site
+2019-00-19 09:00:17.369 [main] INFO   - Clicked Sgn In
+2019-00-19 09:00:20.770 [main] INFO   - Signed In on the site
+2019-00-19 09:00:22.797 [main] INFO   - Clicked menu T-Shirts
+2019-00-19 09:00:24.830 [main] INFO   - Clicked to Product Container
+2019-00-19 09:00:24.882 [main] INFO   - Checked breadcrumb
+2019-00-19 09:00:25.004 [main] INFO   - Clicked to button Add to Cart
+2019-00-19 09:00:28.820 [main] INFO   - Clicked Proceed to Checkout
+2019-00-19 09:00:30.415 [main] INFO   - Increased Quantity
+2019-00-19 09:00:30.556 [main] INFO   - Checked amount price
+2019-00-19 09:00:30.669 [main] INFO   - Deleted Product
+2019-00-19 09:00:33.028 [main] INFO   - Checked that we have message: Your shopping cart is empty
